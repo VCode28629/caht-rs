@@ -1,0 +1,7 @@
+client/target
+client/.git
+login/target
+login/.git
+ui/target
+ui/.git
+server/__pycache__
