@@ -1,0 +1,9 @@
+[submodule "client"]
+    path = client
+    url = https://github.com/VCode28629/caht-rs-client.git
+[submodule "ui"]
+    path = ui
+    url = https://github.com/VCode28629/caht-rs-ui.git
+[submodule "login"]
+    path = login
+    url = https://github.com/VCode28629/caht-rs-login.git
